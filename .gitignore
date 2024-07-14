@@ -3,4 +3,6 @@
 .idea
 
 .env
-transfers.json
+./transfers.json
+./transfers.txt
+transfers.txt
